@@ -1,0 +1,14 @@
+{
+  "name": "magazine-gallery",
+  "version": "1.0.0",
+  "description": "Magazine articles",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server . -o"
+  },
+  "author": "Humberto Suastegui",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}

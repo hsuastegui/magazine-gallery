@@ -1,0 +1,15 @@
+.caption h2 {
+  height: 132px;
+  overflow: hidden;
+}
+.hide {
+  display: none;
+}
+.single #gallery,
+.container:not(.single) #article,
+.container:not(.single) #home-button {
+  display: none;
+}
+.btn i {
+  margin-right: 10px;
+}
